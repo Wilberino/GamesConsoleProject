@@ -1,0 +1,13 @@
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\obj\Debug\netcoreapp3.1\GamesConsoleProject.csprojAssemblyReference.cache
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\obj\Debug\netcoreapp3.1\GamesConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\obj\Debug\netcoreapp3.1\GamesConsoleProject.AssemblyInfo.cs
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\obj\Debug\netcoreapp3.1\GamesConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\bin\Debug\netcoreapp3.1\GamesConsoleProject.exe
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\bin\Debug\netcoreapp3.1\GamesConsoleProject.deps.json
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\bin\Debug\netcoreapp3.1\GamesConsoleProject.runtimeconfig.json
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\bin\Debug\netcoreapp3.1\GamesConsoleProject.runtimeconfig.dev.json
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\bin\Debug\netcoreapp3.1\GamesConsoleProject.dll
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\bin\Debug\netcoreapp3.1\GamesConsoleProject.pdb
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\obj\Debug\netcoreapp3.1\GamesConsoleProject.dll
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\obj\Debug\netcoreapp3.1\GamesConsoleProject.pdb
+C:\Users\Will\GamesConsoleProject\src\GamesConsoleProject\obj\Debug\netcoreapp3.1\GamesConsoleProject.genruntimeconfig.cache
